@@ -47,5 +47,7 @@ Organizations often face challenges in tracking revenue performance across multi
 - Revenue forecasting and trend prediction  
 - Profit and cost analysis  
 - Automated data refresh using Power BI Service  
-- Drill-through pages for deeper analysis  
+- Drill-through pages for deeper analysis
+
+## 📸Demo/screenshort 
 
