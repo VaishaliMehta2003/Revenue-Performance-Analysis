@@ -49,5 +49,5 @@ Organizations often face challenges in tracking revenue performance across multi
 - Automated data refresh using Power BI Service  
 - Drill-through pages for deeper analysis
 
-## 📸Demo/screenshort 
-
+## 📸Demo/Screenshort 
+https://github.com/VaishaliMehta2003/Revenue-Performance-Analysis/blob/main/Revenue%20Performance%20Dashboard.png
